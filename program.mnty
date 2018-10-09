@@ -1,0 +1,8 @@
+! a Mnty program for basic arithmetic
+
+let a = float 33;
+let b = float 42.5;
+do a*b = d;
+print d;
+do d+a = e;
+print e;
